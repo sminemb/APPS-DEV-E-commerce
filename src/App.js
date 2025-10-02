@@ -89,7 +89,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1 className="brand">🛒 SAPII Store</h1>
+      <h1 className="brand">SAPII Store</h1>
 
       {/* Search & Filters */}
       <div className="controls">
